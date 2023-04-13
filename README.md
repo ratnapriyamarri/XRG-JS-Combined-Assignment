@@ -1,5 +1,11 @@
 # JS Combined Assignment
 
+## Why are we doing this?
+
+This assignment teaches you two things:
+- How to collaborate on GitHub/BitBucket/GitLab/Other such tools.
+- How to build simple functions that build a CRUD application.
+
 ## What are we building?
 
 A simple JS File (Very Basic) that allows users to create, read, update, and delete notes.
