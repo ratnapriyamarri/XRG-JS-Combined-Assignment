@@ -4,7 +4,7 @@
 
 This assignment teaches you two things:
 - How to collaborate on GitHub/BitBucket/GitLab/Other such tools.
-- How to build simple functions that build a CRUD application.
+- How to write simple functions that build a CRUD application.
 
 ## What are we building?
 
