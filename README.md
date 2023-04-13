@@ -1,5 +1,14 @@
 # JS Combined Assignment
 
+## What are we building?
+
+A simple JS File (Very Basic) that allows users to create, read, update, and delete notes.
+
+Team - 1: Create Notes
+Team - 2: Read Notes
+Team - 3: Update Notes
+Team - 4: Delete Notes
+
 ## How to Collaborate
 
 Collaborating on GitHub involves working with others to create, review, and merge changes to a repository. Here are the steps to get started:
