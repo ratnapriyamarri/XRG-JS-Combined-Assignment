@@ -10,10 +10,10 @@ This assignment teaches you two things:
 
 A simple JS File (Very Basic) that allows users to create, read, update, and delete notes.
 
-Team - 1: Create Notes
-Team - 2: Read Notes
-Team - 3: Update Notes
-Team - 4: Delete Notes
+Person - 1: Create Notes
+Person - 2: Read Notes
+Person - 3: Update Notes
+Person - 4: Delete Notes
 
 ## How to Collaborate
 
